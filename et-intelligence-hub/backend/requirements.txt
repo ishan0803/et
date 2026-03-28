@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-groq
-python-dotenv
-pydantic
-selenium
-beautifulsoup4
-webdriver-manager
-requests
