@@ -18,8 +18,8 @@ env/
 video-studio/backend/assets/temp/
 et-intelligence-hub/backend/__pycache__/
 et-intelligence-hub/backend/services/__pycache__/
-!video-studio/media/Opening_sq.mp4
-!video-studio/media/end_sq.mp4
+!backend/media/Opening_sq.mp4
+!backend/media/end_sq.mp4
 *.mp4
 *.mp3
 *.png
